@@ -1,0 +1,36 @@
+1️⃣ Giới Thiệu Trò Chơi Xoay Rubik
+- Trò chơi mô phỏng khối Rubik 3x3 trên màn hình máy tính.
+- Người chơi có thể sử dụng chuột hoặc bàn phím để xoay các mặt của Rubik.
+- Mục tiêu: Xếp lại Rubik sao cho mỗi mặt có cùng một màu.
+--------------------------------------------------------------------------
+2️⃣ Hướng Dẫn Chơi Chi Tiết
+🔹 Dùng Chuột
+- Giữ chuột phải và di chuột để xem toàn khối Rubik
+- Nhấn chuột trái vào các khối góc để xoay Rubik
+- Trong GroupBox View có thể bấm chọn các tùy chọn (Top Face, Bottom Face, Left Face, Right Face, Front Face, Back Face); để xem các mặt tương ứng của khối Rubik
+- Trong GroupBox Moves có RadioButton Rotate và AddToQueue:
++ Chọn RadioButton Rotate và ấn các Button tương ứng để xoay cục Rubik.
++ Chọn RadioButton AddToQueue để thêm các bước xoay vào MoveQueue - Bảng danh sách các bước xoay chờ được thực hiện
+- Ấn ExecuteQueue để thực hiện các bước xoay trong MoveQueue
+- Ấn ClearQueue để xóa các bước xoay trong MoveQueue
+
+* Để giải cục Rubik hiện tại theo từng bước: 
+	+ Ấn SetQueueSolution.
+	+ Ấn chuột trái vào Bảng danh sách MoveQueue.
+	+ Ấn Enter để thực hiện các bước giải.
+
+🔹Dùng phím
+- Bấm các Phím (U, F, R, B, L, D) để xoay các mặt tương ứng của khối Rubik theo chiều kim đồng hồ.
+- Giữ Shift và nhấn các Phím (U, F, R, B, L, D) để xoay các mặt tương ứng của khối Rubik ngược chiều kim đồng hồ.
+- Ấn Ctrl + R để reset khối Rubik về trạng thái ban đầu.
+- Ấn Ctrl + S để trộn cục Rubik
+- Ấn Ctrl + I để mở form nhập màu
+--------------------------------------------------------------------------
+3️⃣ Mẹo Giải Rubik Nhanh Hơn
+✔ Làm quen với ký hiệu xoay Rubik (notation) để nhập lệnh nhanh.
+✔ Học các công thức giải Rubik phổ biến như CFOP, Roux, hoặc Beginner's Method.
+✔ Luyện tập xoay nhanh bằng bàn phím thay vì dùng chuột.
+✔ Sử dụng chế độ hướng dẫn nếu bạn mới bắt đầu.
+--------------------------------------------------------------------------
+4️⃣ Kết Luận
+Chơi Rubik trên máy tính là một cách tuyệt vời để rèn luyện khả năng giải đố mà không cần cầm khối Rubik vật lý. Nếu bạn kiên trì luyện tập, tốc độ giải Rubik của bạn sẽ được cải thiện đáng kể! 🚀

@@ -1,0 +1,55 @@
+D:\VirtualRubiksCube-master\TwoPhaseSolver\bin\Debug\net8.0-windows\TwoPhaseSolver.deps.json
+D:\VirtualRubiksCube-master\TwoPhaseSolver\bin\Debug\net8.0-windows\TwoPhaseSolver.dll
+D:\VirtualRubiksCube-master\TwoPhaseSolver\bin\Debug\net8.0-windows\TwoPhaseSolver.pdb
+D:\VirtualRubiksCube-master\TwoPhaseSolver\obj\Debug\net8.0-windows\TwoPhaseSolver.GeneratedMSBuildEditorConfig.editorconfig
+D:\VirtualRubiksCube-master\TwoPhaseSolver\obj\Debug\net8.0-windows\TwoPhaseSolver.AssemblyInfoInputs.cache
+D:\VirtualRubiksCube-master\TwoPhaseSolver\obj\Debug\net8.0-windows\TwoPhaseSolver.AssemblyInfo.cs
+D:\VirtualRubiksCube-master\TwoPhaseSolver\obj\Debug\net8.0-windows\TwoPhaseSolver.csproj.CoreCompileInputs.cache
+D:\VirtualRubiksCube-master\TwoPhaseSolver\obj\Debug\net8.0-windows\TwoPhaseSolver.dll
+D:\VirtualRubiksCube-master\TwoPhaseSolver\obj\Debug\net8.0-windows\refint\TwoPhaseSolver.dll
+D:\VirtualRubiksCube-master\TwoPhaseSolver\obj\Debug\net8.0-windows\TwoPhaseSolver.pdb
+D:\VirtualRubiksCube-master\TwoPhaseSolver\obj\Debug\net8.0-windows\ref\TwoPhaseSolver.dll
+D:\appCoTheXoa\VirtualRubiksCube-master (1)\TwoPhaseSolver\bin\Debug\net8.0-windows\TwoPhaseSolver.deps.json
+D:\appCoTheXoa\VirtualRubiksCube-master (1)\TwoPhaseSolver\bin\Debug\net8.0-windows\TwoPhaseSolver.dll
+D:\appCoTheXoa\VirtualRubiksCube-master (1)\TwoPhaseSolver\bin\Debug\net8.0-windows\TwoPhaseSolver.pdb
+D:\appCoTheXoa\VirtualRubiksCube-master (1)\TwoPhaseSolver\obj\Debug\net8.0-windows\TwoPhaseSolver.GeneratedMSBuildEditorConfig.editorconfig
+D:\appCoTheXoa\VirtualRubiksCube-master (1)\TwoPhaseSolver\obj\Debug\net8.0-windows\TwoPhaseSolver.AssemblyInfoInputs.cache
+D:\appCoTheXoa\VirtualRubiksCube-master (1)\TwoPhaseSolver\obj\Debug\net8.0-windows\TwoPhaseSolver.AssemblyInfo.cs
+D:\appCoTheXoa\VirtualRubiksCube-master (1)\TwoPhaseSolver\obj\Debug\net8.0-windows\TwoPhaseSolver.csproj.CoreCompileInputs.cache
+D:\appCoTheXoa\VirtualRubiksCube-master (1)\TwoPhaseSolver\obj\Debug\net8.0-windows\TwoPhaseSolver.dll
+D:\appCoTheXoa\VirtualRubiksCube-master (1)\TwoPhaseSolver\obj\Debug\net8.0-windows\refint\TwoPhaseSolver.dll
+D:\appCoTheXoa\VirtualRubiksCube-master (1)\TwoPhaseSolver\obj\Debug\net8.0-windows\TwoPhaseSolver.pdb
+D:\appCoTheXoa\VirtualRubiksCube-master (1)\TwoPhaseSolver\obj\Debug\net8.0-windows\ref\TwoPhaseSolver.dll
+F:\code_c\VirtualRubiksCube-master (1)\TwoPhaseSolver\bin\Debug\net8.0-windows\TwoPhaseSolver.deps.json
+F:\code_c\VirtualRubiksCube-master (1)\TwoPhaseSolver\bin\Debug\net8.0-windows\TwoPhaseSolver.dll
+F:\code_c\VirtualRubiksCube-master (1)\TwoPhaseSolver\bin\Debug\net8.0-windows\TwoPhaseSolver.pdb
+F:\code_c\VirtualRubiksCube-master (1)\TwoPhaseSolver\obj\Debug\net8.0-windows\TwoPhaseSolver.GeneratedMSBuildEditorConfig.editorconfig
+F:\code_c\VirtualRubiksCube-master (1)\TwoPhaseSolver\obj\Debug\net8.0-windows\TwoPhaseSolver.AssemblyInfoInputs.cache
+F:\code_c\VirtualRubiksCube-master (1)\TwoPhaseSolver\obj\Debug\net8.0-windows\TwoPhaseSolver.AssemblyInfo.cs
+F:\code_c\VirtualRubiksCube-master (1)\TwoPhaseSolver\obj\Debug\net8.0-windows\TwoPhaseSolver.csproj.CoreCompileInputs.cache
+F:\code_c\VirtualRubiksCube-master (1)\TwoPhaseSolver\obj\Debug\net8.0-windows\TwoPhaseSolver.dll
+F:\code_c\VirtualRubiksCube-master (1)\TwoPhaseSolver\obj\Debug\net8.0-windows\refint\TwoPhaseSolver.dll
+F:\code_c\VirtualRubiksCube-master (1)\TwoPhaseSolver\obj\Debug\net8.0-windows\TwoPhaseSolver.pdb
+F:\code_c\VirtualRubiksCube-master (1)\TwoPhaseSolver\obj\Debug\net8.0-windows\ref\TwoPhaseSolver.dll
+A:\VirtualRubiksCube-master (1)\TwoPhaseSolver\bin\Debug\net8.0-windows\TwoPhaseSolver.deps.json
+A:\VirtualRubiksCube-master (1)\TwoPhaseSolver\bin\Debug\net8.0-windows\TwoPhaseSolver.dll
+A:\VirtualRubiksCube-master (1)\TwoPhaseSolver\bin\Debug\net8.0-windows\TwoPhaseSolver.pdb
+A:\VirtualRubiksCube-master (1)\TwoPhaseSolver\obj\Debug\net8.0-windows\TwoPhaseSolver.GeneratedMSBuildEditorConfig.editorconfig
+A:\VirtualRubiksCube-master (1)\TwoPhaseSolver\obj\Debug\net8.0-windows\TwoPhaseSolver.AssemblyInfoInputs.cache
+A:\VirtualRubiksCube-master (1)\TwoPhaseSolver\obj\Debug\net8.0-windows\TwoPhaseSolver.AssemblyInfo.cs
+A:\VirtualRubiksCube-master (1)\TwoPhaseSolver\obj\Debug\net8.0-windows\TwoPhaseSolver.csproj.CoreCompileInputs.cache
+A:\VirtualRubiksCube-master (1)\TwoPhaseSolver\obj\Debug\net8.0-windows\TwoPhaseSolver.dll
+A:\VirtualRubiksCube-master (1)\TwoPhaseSolver\obj\Debug\net8.0-windows\refint\TwoPhaseSolver.dll
+A:\VirtualRubiksCube-master (1)\TwoPhaseSolver\obj\Debug\net8.0-windows\TwoPhaseSolver.pdb
+A:\VirtualRubiksCube-master (1)\TwoPhaseSolver\obj\Debug\net8.0-windows\ref\TwoPhaseSolver.dll
+A:\C#_22CN5_Nhom9\VirtualRubiksCube-master (1)\TwoPhaseSolver\bin\Debug\net8.0-windows\TwoPhaseSolver.deps.json
+A:\C#_22CN5_Nhom9\VirtualRubiksCube-master (1)\TwoPhaseSolver\bin\Debug\net8.0-windows\TwoPhaseSolver.dll
+A:\C#_22CN5_Nhom9\VirtualRubiksCube-master (1)\TwoPhaseSolver\bin\Debug\net8.0-windows\TwoPhaseSolver.pdb
+A:\C#_22CN5_Nhom9\VirtualRubiksCube-master (1)\TwoPhaseSolver\obj\Debug\net8.0-windows\TwoPhaseSolver.GeneratedMSBuildEditorConfig.editorconfig
+A:\C#_22CN5_Nhom9\VirtualRubiksCube-master (1)\TwoPhaseSolver\obj\Debug\net8.0-windows\TwoPhaseSolver.AssemblyInfoInputs.cache
+A:\C#_22CN5_Nhom9\VirtualRubiksCube-master (1)\TwoPhaseSolver\obj\Debug\net8.0-windows\TwoPhaseSolver.AssemblyInfo.cs
+A:\C#_22CN5_Nhom9\VirtualRubiksCube-master (1)\TwoPhaseSolver\obj\Debug\net8.0-windows\TwoPhaseSolver.csproj.CoreCompileInputs.cache
+A:\C#_22CN5_Nhom9\VirtualRubiksCube-master (1)\TwoPhaseSolver\obj\Debug\net8.0-windows\TwoPhaseSolver.dll
+A:\C#_22CN5_Nhom9\VirtualRubiksCube-master (1)\TwoPhaseSolver\obj\Debug\net8.0-windows\refint\TwoPhaseSolver.dll
+A:\C#_22CN5_Nhom9\VirtualRubiksCube-master (1)\TwoPhaseSolver\obj\Debug\net8.0-windows\TwoPhaseSolver.pdb
+A:\C#_22CN5_Nhom9\VirtualRubiksCube-master (1)\TwoPhaseSolver\obj\Debug\net8.0-windows\ref\TwoPhaseSolver.dll
